@@ -1,0 +1,20 @@
+body {
+    background-image: url("stars.gif");
+    background-repeat: no-repeat;
+    background-size: 100% 200%;
+    }
+h1 {text-align: center;}
+h1 { color: azure;}
+body {
+    color: sazure;}
+ul{
+    background-color: white;
+    border:  solid cornsilk;}
+li {
+    text-align: center;
+    border-bottom: solid cornsilk;
+}
+li:last-child {
+    border-bottom: cor;
+}
+

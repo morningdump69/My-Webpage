@@ -1,0 +1,70 @@
+body {
+    background-image: url("164156452-clean-wallpapers.jpg");
+    }
+h1 {
+    color: rgb(251, 0, 0);
+}
+body {
+    color: cornsilk;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+.ul1{
+    background-color: white;
+    border:  solid cornsilk;
+    text-align: center;}
+body
+{
+    
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+section
+{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    }
+.ul2
+{
+    width: 100%;
+    height: 50px;
+    margin: 10;
+    padding: 0;
+    position: absolute;
+    top: 10;
+    letter-spacing: 0;
+    display: flex;
+    justify-content: space-around;
+}
+ul li
+{
+    list-style: none;
+}
+ul li a
+{
+    color: #ffffff;
+    line-height: 50px;
+    box-sizing: border-box;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+h1 {
+    font-size: 60px;
+}
+p{
+    font-size: 30px;
+}
+
+.P1{
+    font-size: 30px;
+}
+.P2{
+    font-size: 30px;
+}
