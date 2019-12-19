@@ -8,6 +8,7 @@ body {
  body {
         color: cornsilk;
         font-size: 30px;
+        text-align: center;
     }
 html {
     scroll-behavior: smooth;
@@ -51,14 +52,4 @@ ul li a
     box-sizing: border-box;
     font-weight: bold;
     text-transform: uppercase;
-}
-.ul1{
-
-        background-color: white;
-        border:  solid cornsilk;
-        justify-content: space-around;
-        align-items: center;
-        align-content: center;
-        justify-content: center;
-        text-align: center;
 }

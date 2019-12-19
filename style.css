@@ -8,6 +8,7 @@ h1 { color: azure;}
 body {
     color: sazure;}
 ul{
+    list-style-type: none;
     background-color: white;
     border:  solid cornsilk;}
 li {
